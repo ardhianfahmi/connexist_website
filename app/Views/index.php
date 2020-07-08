@@ -60,7 +60,7 @@
                 <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                 <!-- RD Navbar Brand-->
                 <div class="rd-navbar-brand"><a class="brand" href="index.html">
-                    <div class="brand__name"><img class="brand__logo-dark" src="assets/images/logo-default-95x80.png" alt="" width="95" height="80" /><img class="brand__logo-mobile" src="assets/images/logo-mobile-170x50.png" alt="" width="170" height="50" />
+                    <div class="brand__name"><img class="brand__logo-dark" src="assets/images/logo-default-95x80.png" alt="" width="150" height="80" /><img class="brand__logo-mobile" src="assets/images/logo-mobile-170x50.png" alt="" width="170" height="50" />
                     </div>
                   </a></div>
               </div>
@@ -114,54 +114,49 @@
                   </div>
                   <!-- RD Navbar Nav-->
                   <ul class="rd-navbar-nav">
-                    <li><a href="about.html">About</a>
+                    <li><a href="about.html">Home</a>
                     </li>
-                    <li><a href="services.html">Services</a>
-                    </li>
-                    <li><a href="pricing.html">Pricing</a>
-                    </li>
-                    <li><a href="promos.html">Promos</a>
-                    </li>
-                    <li><a href="blog.html">Blog</a>
-                      <!-- RD Navbar Dropdown-->
+                    <li><a href="services.html">Our Product</a>
                       <ul class="rd-navbar-dropdown">
-                        <li><a href="blog-post.html">Blog post</a></li>
+                        <li><a href="blog-post.html">IT Solution</a></li>
+                        <li><a href="blog-post.html">Cyber Security</a></li>
+                        <li><a href="blog-post.html">Web Development</a></li>
+                        <li><a href="blog-post.html">E-Commerce</a></li>
+                        <li><a href="blog-post.html">Energy</a></li>
                       </ul>
                     </li>
-                    <li><a href="#">Pages</a>
-                      <!-- RD Navbar Megamenu-->
+                    <li><a href="pricing.html">Our Services</a>
                       <ul class="rd-navbar-megamenu">
                         <li>
-                          <h5 class="rd-megamenu-header">Pages 1</h5>
                           <ul class="rd-megamenu-list">
-                            <li><a href="faq.html">FAQ</a></li>
-                            <li><a href="login.html">Login</a></li>
-                            <li><a href="cart-page.html">Cart page</a></li>
+                            <li><a href="faq.html">Finance and Banking System Development</a></li>
+                            <li><a href="login.html">eCommerce Solutions</a></li>
+                            <li><a href="cart-page.html">Web and Mobile Development</a></li>
                           </ul>
                         </li>
                         <li>
-                          <h5 class="rd-megamenu-header">Pages 2</h5>
                           <ul class="rd-megamenu-list">
-                            <li><a href="404-page.html">404 page</a></li>
-                            <li><a href="503-page.html">503 page</a></li>
-                            <li><a href="coming-soon.html">Coming soon</a></li>
-                            <li><a href="maintenance.html">Maintenance</a></li>
-                            <li><a href="privacy-policy.html">Privacy policy</a></li>
-                            <li><a href="search-results.html">Search results</a></li>
+                            <li><a href="404-page.html">Cross Platform Solution</a></li>
+                            <li><a href="503-page.html">Project Management</a></li>
+                            <li><a href="coming-soon.html">Cybersecurity</a></li>
+                            <li><a href="maintenance.html">Research and Development</a></li>
                           </ul>
                         </li>
-                        <li>
-                          <h5 class="rd-megamenu-header">Elements</h5>
-                          <ul class="rd-megamenu-list">
-                            <li><a href="buttons.html">Buttons</a></li>
-                            <li><a href="forms.html">Forms</a></li>
-                            <li><a href="grid-system.html">Grid system</a></li>
-                            <li><a href="progress-bars.html">Progress bars</a></li>
-                            <li><a href="tables.html">Tables</a></li>
-                            <li><a href="tabs-and-accordions.html">Tabs and Accordions</a></li>
-                            <li><a href="typography.html">Typography</a></li>
-                          </ul>
-                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="#">News</a>
+                    </li>
+                    <li>
+                      <a href="blog.html">Client & Partners</a>
+                    </li>
+                    <li>
+                      <a href="promos.html">About Us</a>
+                      <ul class="rd-navbar-dropdown">
+                        <li><a href="blog-post.html">Profile Company</a></li>
+                        <li><a href="blog-post.html">Visi, Misi, Corporate Value</a></li>
+                        <li><a href="blog-post.html">Work Culture & Ethic</a></li>
+                        <li><a href="blog-post.html">Award & Certifications Product</a></li>
                       </ul>
                     </li>
                     <li><a href="contact-us.html">Contact Us</a>
