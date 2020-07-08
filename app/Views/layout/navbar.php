@@ -10,7 +10,7 @@
                         <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                         <!-- RD Navbar Brand-->
                         <div class="rd-navbar-brand"><a class="brand" href="index.html">
-                                <div class="brand__name"><img class="brand__logo-dark" src="assets/images/logo-default-95x80.png" alt="" width="150" height="80" /><img class="brand__logo-mobile" src="assets/images/logo-mobile-170x50.png" alt="" width="170" height="50" />
+                                <div class="brand__name"><img class="brand__logo-dark" src="<?= base_url('public/assets/images/logo-default-95x80.png') ?>" alt="" width="150" height="80" /><img class="brand__logo-mobile" src="<?= base_url('public/assets/images/logo-mobile-170x50.png') ?>" alt="" width="170" height="50" />
                                 </div>
                             </a></div>
                     </div>
@@ -64,9 +64,9 @@
                             </div>
                             <!-- RD Navbar Nav-->
                             <ul class="rd-navbar-nav">
-                                <li><a href="about.html">Home</a>
+                                <li><a href="<?= base_url('/') ?>">Home</a>
                                 </li>
-                                <li><a href="services.html">Our Product</a>
+                                <li><a href="<?= base_url('product') ?>">Our Product</a>
                                     <ul class="rd-navbar-dropdown">
                                         <li><a href="blog-post.html">IT Solution</a></li>
                                         <li><a href="blog-post.html">Cyber Security</a></li>
@@ -75,7 +75,7 @@
                                         <li><a href="blog-post.html">Energy</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="pricing.html">Our Services</a>
+                                <li><a href="<?= base_url('service') ?>">Our Services</a>
                                     <ul class="rd-navbar-megamenu">
                                         <li>
                                             <ul class="rd-megamenu-list">
@@ -95,13 +95,13 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="#">News</a>
+                                    <a href="<?= base_url('news') ?>">News</a>
                                 </li>
                                 <li>
-                                    <a href="blog.html">Client & Partners</a>
+                                    <a href="<?= base_url('client') ?>">Client & Partners</a>
                                 </li>
                                 <li>
-                                    <a href="promos.html">About Us</a>
+                                    <a href="<?= base_url('about') ?>">About Us</a>
                                     <ul class="rd-navbar-dropdown">
                                         <li><a href="blog-post.html">Profile Company</a></li>
                                         <li><a href="blog-post.html">Visi, Misi, Corporate Value</a></li>
@@ -109,7 +109,7 @@
                                         <li><a href="blog-post.html">Award & Certifications Product</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact-us.html">Contact Us</a>
+                                <li><a href="<?= base_url('contact') ?>">Contact Us</a>
                                 </li>
                             </ul>
                         </div>

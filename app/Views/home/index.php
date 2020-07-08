@@ -410,7 +410,7 @@
             <!-- Quote Creative-->
             <article class="quote-creative">
               <div class="quote-creative__header">
-                <div class="quote-creative__media"><img src="assets/images/user-2-112x99.jpg" alt="" width="112" height="99" />
+                <div class="quote-creative__media"><img src="<?= base_url('public/assets/images/user-2-112x99.jpg') ?>" alt="" width="112" height="99" />
                 </div>
                 <div class="quote-creative__info">
                   <p class="quote-creative__title">Michael Johnson</p>
@@ -436,7 +436,7 @@
             <!-- Quote Creative-->
             <article class="quote-creative">
               <div class="quote-creative__header">
-                <div class="quote-creative__media"><img src="assets/images/user-1-112x99.jpg" alt="" width="112" height="99" />
+                <div class="quote-creative__media"><img src="<?= base_url('public/assets/images/user-1-112x99.jpg') ?>" alt="" width="112" height="99" />
                 </div>
                 <div class="quote-creative__info">
                   <p class="quote-creative__title">Rachel Adams</p>
@@ -467,10 +467,10 @@
   <section class="section section-md bg-white text-center">
     <div class="container">
       <div class="row row-30 align-items-sm-center">
-        <div class="col-sm-6 col-md-3 wow fadeIn"><a class="link-image" href="#"><img src="assets/images/brand-1-126x68.png" alt="" width="126" height="68" /></a></div>
-        <div class="col-sm-6 col-md-3 wow fadeIn"><a class="link-image" href="#"><img src="assets/images/brand-2-126x100.png" alt="" width="126" height="100" /></a></div>
-        <div class="col-sm-6 col-md-3 wow fadeIn"><a class="link-image" href="#"><img src="assets/images/brand-3-134x83.png" alt="" width="134" height="83" /></a></div>
-        <div class="col-sm-6 col-md-3 wow fadeIn"><a class="link-image" href="#"><img src="assets/images/brand-4-138x55.png" alt="" width="138" height="55" /></a></div>
+        <div class="col-sm-6 col-md-3 wow fadeIn"><a class="link-image" href="#"><img src="<?= base_url('public/assets/images/brand-1-126x68.png') ?>" alt="" width="126" height="68" /></a></div>
+        <div class="col-sm-6 col-md-3 wow fadeIn"><a class="link-image" href="#"><img src="<?= base_url('pullic/assets/images/brand-2-126x100.png') ?>" alt="" width="126" height="100" /></a></div>
+        <div class="col-sm-6 col-md-3 wow fadeIn"><a class="link-image" href="#"><img src="<?= base_url('public/assets/images/brand-3-134x83.png') ?>" alt="" width="134" height="83" /></a></div>
+        <div class="col-sm-6 col-md-3 wow fadeIn"><a class="link-image" href="#"><img src="<?= base_url('public/assets/images/brand-4-138x55.png') ?>" alt="" width="138" height="55" /></a></div>
       </div>
     </div>
   </section>
@@ -479,11 +479,7 @@
   <?= $this->include("layout/footer.php") ?>
 
   </div>
-  <!-- Global Mailform Output-->
-  <div class="snackbars" id="form-output-global"></div>
-  <!-- Javascript-->
-  <script src="assets/js/core.min.js"></script>
-  <script src="assets/js/script.js"></script>
+
 </body>
 
 </html>

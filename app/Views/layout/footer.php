@@ -48,7 +48,7 @@
                     <div class="post-small-wrap">
                         <!-- Post small-->
                         <article class="post-small">
-                            <div class="post-small__aside"><a class="post-small__media" href="blog-post.html"><img class="post-small__image" src="assets/images/post-small-1-80x68.jpg" alt="" width="80" height="68" /></a></div>
+                            <div class="post-small__aside"><a class="post-small__media" href="blog-post.html"><img class="post-small__image" src="<?= base_url('public/assets/images/post-small-1-80x68.jpg') ?>" alt="" width="80" height="68" /></a></div>
                             <div class="post-small__main">
                                 <p class="post-small__title"><a href="blog-post.html">Benefits of Async/Await in Programming</a></p>
                                 <time class="post-small__time" datetime="2019">January 12, 2019</time>
@@ -56,7 +56,7 @@
                         </article>
                         <!-- Post small-->
                         <article class="post-small">
-                            <div class="post-small__aside"><a class="post-small__media" href="blog-post.html"><img class="post-small__image" src="assets/images/post-small-2-80x68.jpg" alt="" width="80" height="68" /></a></div>
+                            <div class="post-small__aside"><a class="post-small__media" href="blog-post.html"><img class="post-small__image" src="<?= base_url('public/assets/images/post-small-2-80x68.jpg') ?>" alt="" width="80" height="68" /></a></div>
                             <div class="post-small__main">
                                 <p class="post-small__title"><a href="blog-post.html">Key Considerations and Warnings of iPaaS</a></p>
                                 <time class="post-small__time" datetime="2019">January 12, 2019</time>
@@ -103,3 +103,9 @@
         </div>
     </div>
 </footer>
+
+<!-- Global Mailform Output-->
+<div class="snackbars" id="form-output-global"></div>
+<!-- Javascript-->
+<script src="<?= base_url('public/assets/js/core.min.js') ?>"></script>
+<script src="<?= base_url('public/assets/js/script.js') ?>"></script>
