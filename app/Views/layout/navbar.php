@@ -66,7 +66,7 @@
                             <ul class="rd-navbar-nav">
                                 <li><a href="<?= base_url('/') ?>">Home</a>
                                 </li>
-                                <li><a href="<?= base_url('product') ?>">Our Product</a>
+                                <li><a href="#">Our Product</a>
                                     <ul class="rd-navbar-dropdown">
                                         <li><a href="blog-post.html">IT Solution</a></li>
                                         <li><a href="blog-post.html">Cyber Security</a></li>
@@ -75,7 +75,7 @@
                                         <li><a href="blog-post.html">Energy</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="<?= base_url('service') ?>">Our Services</a>
+                                <li><a href="#">Our Services</a>
                                     <ul class="rd-navbar-megamenu">
                                         <li>
                                             <ul class="rd-megamenu-list">
@@ -101,7 +101,7 @@
                                     <a href="<?= base_url('client') ?>">Client & Partners</a>
                                 </li>
                                 <li>
-                                    <a href="<?= base_url('about') ?>">About Us</a>
+                                    <a href="#">About Us</a>
                                     <ul class="rd-navbar-dropdown">
                                         <li><a href="blog-post.html">Profile Company</a></li>
                                         <li><a href="blog-post.html">Visi, Misi, Corporate Value</a></li>
