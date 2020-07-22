@@ -6,7 +6,7 @@ class WebMobile extends BaseController
 {
     public function index()
     {
-        return view('ourProduct/webMobile');
+        return view('ourService/webMobile');
     }
 
     //--------------------------------------------------------------------

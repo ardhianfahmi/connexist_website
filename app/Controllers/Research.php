@@ -6,7 +6,7 @@ class Research extends BaseController
 {
     public function index()
     {
-        return view('ourProduct/research');
+        return view('ourService/research');
     }
 
     //--------------------------------------------------------------------

@@ -44,12 +44,13 @@ $routes->get('ourproduct', 'OurProduct::index');
 // $routes->get('ecommerce', 'Ecommerce::index');
 // $routes->get('webdev', 'WebDev::index');
 $routes->get('crossplatform', 'CrossPlatform::index');
-$routes->get('cybersecurity', 'CyberSecurity::index');
+$routes->get('cybersecurityserv', 'CyberSecurityService::index');
 $routes->get('ecommercesol', 'ECommerceSolution::index');
 $routes->get('finance', 'Finance::index');
 $routes->get('projectman', 'ProjectMan::index');
 $routes->get('research', 'Research::index');
 $routes->get('webmobile', 'WebMobile::index');
+$routes->get('profile', 'Profile::index');
 /**
  * --------------------------------------------------------------------
  * Additional Routing

@@ -79,17 +79,17 @@
                                     <ul class="rd-navbar-megamenu">
                                         <li>
                                             <ul class="rd-megamenu-list">
-                                                <li><a href="<?= base_url('finance') ?>">Finance and Banking System Development</a></li>
+                                                <li><a href="<?= base_url('crossplatform') ?>">Cross Platform Solution</a></li>
+                                                <li><a href="<?= base_url('cybersecurityserv') ?>">Cybersecurity</a></li>
                                                 <li><a href="<?= base_url('ecommercesol') ?>">eCommerce Solutions</a></li>
-                                                <li><a href="<?= base_url('webmobile') ?>">Web and Mobile Development</a></li>
+                                                <li><a href="<?= base_url('finance') ?>">Finance and Banking System Development</a></li>
                                             </ul>
                                         </li>
                                         <li>
                                             <ul class="rd-megamenu-list">
-                                                <li><a href="<?= base_url('crossplatform') ?>">Cross Platform Solution</a></li>
                                                 <li><a href="<?= base_url('projectman') ?>">Project Management</a></li>
-                                                <li><a href="<?= base_url('cybersecurity') ?>">Cybersecurity</a></li>
                                                 <li><a href="<?= base_url('research') ?>">Research and Development</a></li>
+                                                <li><a href="<?= base_url('webmobile') ?>">Web and Mobile Development</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -101,13 +101,7 @@
                                     <a href="<?= base_url('client') ?>">Client & Partners</a>
                                 </li>
                                 <li>
-                                    <a href="<?= base_url('/') ?>">About Us</a>
-                                    <ul class="rd-navbar-dropdown">
-                                        <li><a href="blog-post.html">Profile Company</a></li>
-                                        <li><a href="blog-post.html">Visi, Misi, Corporate Value</a></li>
-                                        <li><a href="blog-post.html">Work Culture & Ethic</a></li>
-                                        <li><a href="blog-post.html">Award & Certifications Product</a></li>
-                                    </ul>
+                                    <a href="<?= base_url('profile') ?>">About Us</a>
                                 </li>
                                 <li><a href="<?= base_url('contact') ?>">Contact Us</a>
                                 </li>

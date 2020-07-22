@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
-    <link rel="icon" href="<?= base_url('public/assets/images/favicon.ico') ?>" type="public/assets/image/x-icon">
+    <link rel="icon" href="<?= base_url('public/assets/images/confaf.ico') ?>" type="public/assets/image/x-icon">
     <!-- Stylesheets-->
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:400,700%7CSpace+Mono">
     <link rel="stylesheet" href="<?= base_url('public/assets/css/bootstrap.css') ?>">

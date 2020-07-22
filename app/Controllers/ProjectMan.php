@@ -6,7 +6,7 @@ class ProjectMan extends BaseController
 {
     public function index()
     {
-        return view('ourProduct/projectMan');
+        return view('ourService/projectMan');
     }
 
     //--------------------------------------------------------------------

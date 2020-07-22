@@ -6,7 +6,7 @@ class Finance extends BaseController
 {
     public function index()
     {
-        return view('ourProduct/finance');
+        return view('ourService/finance');
     }
 
     //--------------------------------------------------------------------

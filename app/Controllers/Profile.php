@@ -2,11 +2,11 @@
 
 namespace App\Controllers;
 
-class CyberSecurityService extends BaseController
+class Profile extends BaseController
 {
     public function index()
     {
-        return view('ourService/cybersecurity');
+        return view('about/profile');
     }
 
     //--------------------------------------------------------------------
