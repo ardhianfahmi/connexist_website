@@ -42,28 +42,26 @@
                     <ul class="list-creative">
                         <li>
                             <dl class="list-terms-medium list-terms-medium_secondary">
-                                <dt>Address</dt>
-                                <dd><a href="#">212 Moore Ave, Brooklyn, NY, United States</a></dd>
+                                <dt>Alamat</dt>
+                                <dd><a href="#">Kemang Selatan, No.3B, RW.4, Kel. Cilandak Timur, Kec. Ps. Minggu, Kota Jakarta Selatan, DKI Jakarta 12560</a></dd>
                             </dl>
                         </li>
                         <li>
                             <dl class="list-terms-medium">
-                                <dt>Phones</dt>
+                                <dt>Telefon</dt>
                                 <dd>
                                     <ul class="list-comma">
-                                        <li><a href="tel:#">+1-800-700-6200 </a></li>
-                                        <li><a href="tel:#">+1-800-955-4567</a></li>
+                                        <li><a href="tel:#">+62 21 799 1992</a></li>
                                     </ul>
                                 </dd>
                             </dl>
                         </li>
                         <li>
                             <dl class="list-terms-medium list-terms-medium_tertiary">
-                                <dt>E-mails</dt>
+                                <dt>E-Mail</dt>
                                 <dd>
                                     <ul class="list-comma">
-                                        <li><a href="mailto:#">support@demolink.org</a></li>
-                                        <li><a href="mailto:#">office@demolink.org</a></li>
+                                        <li><a href="mailto:#">info@connexist.com</a></li>
                                     </ul>
                                 </dd>
                             </dl>
@@ -111,11 +109,11 @@
 
     <!-- RD Google Map-->
     <section class="section">
-        <div class="google-map-container" data-center="9870 St Vincent Place, Glasgow, DC 45 Fr 45." data-styles="[{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;}]},{&quot;featureType&quot;:&quot;poi.attraction&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;}]},{&quot;featureType&quot;:&quot;poi.business&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;poi.government&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;poi.medical&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;poi.park&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;simplified&quot;}]},{&quot;featureType&quot;:&quot;poi.place_of_worship&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;poi.school&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;poi.sports_complex&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]}]">
-            <div class="google-map"></div>
-            <ul class="google-map-markers">
-                <li data-location="9870 St Vincent Place, Glasgow, DC 45 Fr 45." data-description="9870 St Vincent Place, Glasgow" data-icon="images/gmap_marker.png" data-icon-active="images/gmap_marker_active.png"></li>
-            </ul>
+        <div class="google-map-container">
+            <div>
+                <iframe style="width: 100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d991.4762663531072!2d106.81610572916406!3d-6.276211499716076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f108a8fbead9%3A0x678f03dcb089d402!2sCONNEXIST%20KEMANG%20OFFICE!5e0!3m2!1sid!2sid!4v1595397961353!5m2!1sid!2sid" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
+                </iframe>
+            </div>
         </div>
     </section>
     <!-- Page Footer-->

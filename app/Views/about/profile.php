@@ -71,44 +71,42 @@
 
     <section class="section section-md bg-white text-center">
         <div class="container">
-            <div class="row justify-content-xl-center">
-                <div class="col-xl-10">
-                    <h3>Corporate Value</h3>
-                    <!-- Bootstrap tabs -->
-                    <div class="tabs-custom tabs-horizontal tabs-corporate" id="tabs-1">
+            <h3>Corporate Values</h3>
+            <div class="row">
+                <div class="col-xl-11">
+                    <!-- Bootstrap tabs-->
+                    <div class="tabs-custom tabs-vertical tabs-corporate" id="tabs-2">
                         <!-- Nav tabs-->
                         <ul class="nav nav-tabs">
-                            <li class="nav-item"><a class="nav-link active" href="#tabs-1-1" data-toggle="tab">Integritas</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#tabs-1-2" data-toggle="tab">Komitmen</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#tabs-1-3" data-toggle="tab">Terbuka</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#tabs-1-4" data-toggle="tab">Rasional</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#tabs-1-5" data-toggle="tab">Visionary</a></li>
+                            <li class="nav-item"><a class="nav-link active" href="#tabs-2-1" data-toggle="tab">Integritas</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#tabs-2-2" data-toggle="tab">Komitmen</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#tabs-2-3" data-toggle="tab">Terbuka</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#tabs-2-4" data-toggle="tab">Rasional</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#tabs-2-5" data-toggle="tab">Visionary</a></li>
                         </ul>
                         <!-- Tab panes-->
                         <div class="tab-content">
-                            <div class="tab-pane fade show active" id="tabs-1-1">
-                                <p style="font-size: 20px; text-align: center;">Memiliki sikap kejujuran, tanggung jawab dan konsistensi dalam semua tindakan dalam mencapai tujuan Perusahaan.</p>
+                            <div class="tab-pane fade show active" id="tabs-2-1">
+                                <p style="font-size: 20px;">Memiliki sikap kejujuran, tanggung jawab dan konsistensi dalam semua tindakan dalam mencapai tujuan Perusahaan.</p>
                             </div>
-                            <div class="tab-pane fade" id="tabs-1-2">
-                                <p style="font-size: 20px; text-align: center;">Memiliki tanggung jawab penuh terhadap perjanjian dan janji yang telah dibuat.</p>
+                            <div class="tab-pane fade" id="tabs-2-2">
+                                <p style="font-size: 20px;">Memiliki tanggung jawab penuh terhadap perjanjian dan janji yang telah dibuat.</p>
                             </div>
-                            <div class="tab-pane fade" id="tabs-1-3">
-                                <p style="font-size: 20px; text-align: center;">Menerima masukan dan mampu beradaptasi dengan perubahan lingkungan yang terjadi.</p>
+                            <div class="tab-pane fade" id="tabs-2-3">
+                                <p style="font-size: 20px;">Menerima masukan dan mampu beradaptasi dengan perubahan lingkungan yang terjadi.</p>
                             </div>
-                            <div class="tab-pane fade" id="tabs-1-4">
-                                <p style="font-size: 20px; text-align: center;">Melakukan kegiatan secara terencana, terorganisir dengan penuh pertimbangan dan perhitungan.</p>
+                            <div class="tab-pane fade" id="tabs-2-4">
+                                <p style="font-size: 20px;">Melakukan kegiatan secara terencana, terorganisir dengan penuh pertimbangan dan perhitungan.</p>
                             </div>
-                            <div class="tab-pane fade" id="tabs-1-5">
-                                <p style="font-size: 20px; text-align: center;">Berinovasi dan melihat ke depan tanpa kendala ruang dan waktu.</p>
+                            <div class="tab-pane fade" id="tabs-2-5">
+                                <p style="font-size: 20px;">Berinovasi dan melihat ke depan tanpa kendala ruang dan waktu.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-
-    <!-- Navbar -->
+    </section> <!-- Navbar -->
     <?= $this->include("layout/footer.php") ?>
 </body>
 

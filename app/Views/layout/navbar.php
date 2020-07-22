@@ -23,14 +23,14 @@
                                     <ul class="list-bordered list-inline">
                                         <li>
                                             <dl class="list-terms-inline">
-                                                <dt>24/7 Support</dt>
-                                                <dd><a href="tel:#">1-800-700-6200</a></dd>
+                                                <dt>Telefon</dt>
+                                                <dd><a href="tel:#">+62 21 799 1992</a></dd>
                                             </dl>
                                         </li>
                                         <li>
                                             <dl class="list-terms-inline">
                                                 <dt>E-mail</dt>
-                                                <dd><a href="mailto:#">mail@demolink.org</a></dd>
+                                                <dd><a href="mailto:#">info@connexist.com</a></dd>
                                             </dl>
                                         </li>
                                         <li>
