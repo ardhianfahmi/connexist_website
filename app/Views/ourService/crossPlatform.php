@@ -34,13 +34,8 @@
     <div class="container">
       <div class="row row-50 justify-content-md-center">
         <div class="col-md-9 col-lg-8 col-xl-6">
-<<<<<<< HEAD
-          <h3>Cross Solutions Platform</h3>
-          <p class="big">Kami membangun perangkat yang terhubung dan menerapkan ke aplikasi web, desktop, dan seluler. Engineer software dan hardware kami tahu cara meningkatkan program driver, firmware, dan sistem operasi. Selain itu, kami juga dapat membuat sistem teknis yang kompleks, termasuk solusi IoT dan cloud.</p>
-=======
           <h3>Pengembangan Aplikasi secara Kustom</h3>
           <p class="big">Kami mengandalkan keahlian teknologi dan pengalaman industri khusus untuk mengembangkan segala jenis aplikasi web, seluler, desktop, dan hybrid untuk keperluan perbankan dan bisnis keuangan. Dari konsep hingga kode, pengembangan hingga penerapan, kami menyediakan solusi IT khusus yang mempercepat alur kerja, mengoptimalkan operasi, dan meningkatkan pendapatan.</p>
->>>>>>> ee7917cb5a18c85eea803999419afdc548775757
         </div>
       </div>
     </div>
@@ -68,10 +63,7 @@
               </div>
               <div class="box-alice__main">
                 <h5 class="box-alice__title">Pengembangan Aplikasi secara Kustom</h5>
-<<<<<<< HEAD
-=======
                 <p>We use top-notch hardware to develop the most efficient apps for our customers.</p>
->>>>>>> ee7917cb5a18c85eea803999419afdc548775757
               </div>
             </div>
           </article>
@@ -93,11 +85,7 @@
               </div>
               <div class="box-alice__main">
                 <h5 class="box-alice__title">Integrasi API</h5>
-<<<<<<< HEAD
-                <p>We use top-notch hardware to develop the most efficient apps for our customers.</p>
-=======
                 <p>You can rely on our 24/7 tech support that will gladly solve any app issue you may have.</p>
->>>>>>> ee7917cb5a18c85eea803999419afdc548775757
               </div>
             </div>
           </article>
@@ -119,11 +107,7 @@
               </div>
               <div class="box-alice__main">
                 <h5 class="box-alice__title">Keamanan IT</h5>
-<<<<<<< HEAD
-                <p>You can rely on our 24/7 tech support that will gladly solve any app issue you may have.</p>
-=======
                 <p>If you are not satisfied with our apps, we will return your money in the first 30 days.</p>
->>>>>>> ee7917cb5a18c85eea803999419afdc548775757
               </div>
             </div>
           </article>
@@ -145,11 +129,7 @@
               </div>
               <div class="box-alice__main">
                 <h5 class="box-alice__title">Dukungan Infrastruktur</h5>
-<<<<<<< HEAD
-                <p>If you are not satisfied with our apps, we will return your money in the first 30 days.</p>
-=======
                 <p>This type of approach to our work helps our specialists to quickly develop better apps.</p>
->>>>>>> ee7917cb5a18c85eea803999419afdc548775757
               </div>
             </div>
           </article>
@@ -171,11 +151,7 @@
               </div>
               <div class="box-alice__main">
                 <h5 class="box-alice__title">QA dan Pengujian Perangkat Lunak</h5>
-<<<<<<< HEAD
-                <p>This type of approach to our work helps our specialists to quickly develop better apps.</p>
-=======
                 <p>We also develop free apps that can be downloaded online without any payments.</p>
->>>>>>> ee7917cb5a18c85eea803999419afdc548775757
               </div>
             </div>
           </article>
@@ -196,13 +172,8 @@
                 </div>
               </div>
               <div class="box-alice__main">
-<<<<<<< HEAD
-                <h5 class="box-alice__title">SLA Layanan IT</h5>
-                <p>We also develop free apps that can be downloaded online without any payments.</p>
-=======
                 <h5 class="box-alice__title">QA dan Pengujian Perangkat Lunak</h5>
                 <p>All our products have high usability allowing users to easily operate the apps.</p>
->>>>>>> ee7917cb5a18c85eea803999419afdc548775757
               </div>
             </div>
           </article>
