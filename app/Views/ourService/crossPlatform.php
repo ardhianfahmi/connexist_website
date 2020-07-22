@@ -34,7 +34,7 @@
     <div class="container">
       <div class="row row-50 justify-content-md-center">
         <div class="col-md-9 col-lg-8 col-xl-6">
-          <h3>Finance and Banking System Development</h3>
+          <h3>Pengembangan Aplikasi secara Kustom</h3>
           <p class="big">Kami mengandalkan keahlian teknologi dan pengalaman industri khusus untuk mengembangkan segala jenis aplikasi web, seluler, desktop, dan hybrid untuk keperluan perbankan dan bisnis keuangan. Dari konsep hingga kode, pengembangan hingga penerapan, kami menyediakan solusi IT khusus yang mempercepat alur kerja, mengoptimalkan operasi, dan meningkatkan pendapatan.</p>
         </div>
       </div>
@@ -62,7 +62,7 @@
                 </div>
               </div>
               <div class="box-alice__main">
-                <h5 class="box-alice__title">High Quality Hardware</h5>
+                <h5 class="box-alice__title">Pengembangan Aplikasi secara Kustom</h5>
                 <p>We use top-notch hardware to develop the most efficient apps for our customers.</p>
               </div>
             </div>
@@ -84,7 +84,7 @@
                 </div>
               </div>
               <div class="box-alice__main">
-                <h5 class="box-alice__title">Dedicated 24\7 Support</h5>
+                <h5 class="box-alice__title">Integrasi API</h5>
                 <p>You can rely on our 24/7 tech support that will gladly solve any app issue you may have.</p>
               </div>
             </div>
@@ -106,7 +106,7 @@
                 </div>
               </div>
               <div class="box-alice__main">
-                <h5 class="box-alice__title">30-Day Money-back Guarantee</h5>
+                <h5 class="box-alice__title">Keamanan IT</h5>
                 <p>If you are not satisfied with our apps, we will return your money in the first 30 days.</p>
               </div>
             </div>
@@ -128,7 +128,7 @@
                 </div>
               </div>
               <div class="box-alice__main">
-                <h5 class="box-alice__title">Agile and Fast Working Style</h5>
+                <h5 class="box-alice__title">Dukungan Infrastruktur</h5>
                 <p>This type of approach to our work helps our specialists to quickly develop better apps.</p>
               </div>
             </div>
@@ -150,7 +150,7 @@
                 </div>
               </div>
               <div class="box-alice__main">
-                <h5 class="box-alice__title">Some Apps are Free</h5>
+                <h5 class="box-alice__title">QA dan Pengujian Perangkat Lunak</h5>
                 <p>We also develop free apps that can be downloaded online without any payments.</p>
               </div>
             </div>
@@ -172,7 +172,7 @@
                 </div>
               </div>
               <div class="box-alice__main">
-                <h5 class="box-alice__title">High Level of Usability</h5>
+                <h5 class="box-alice__title">QA dan Pengujian Perangkat Lunak</h5>
                 <p>All our products have high usability allowing users to easily operate the apps.</p>
               </div>
             </div>
