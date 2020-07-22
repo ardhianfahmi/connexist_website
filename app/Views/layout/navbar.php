@@ -66,30 +66,30 @@
                             <ul class="rd-navbar-nav">
                                 <li><a href="<?= base_url('/') ?>">Home</a>
                                 </li>
-                                <li><a href="<?= base_url('/') ?>">Our Product</a>
-                                    <ul class="rd-navbar-dropdown">
-                                        <li><a href="blog-post.html">IT Solution</a></li>
-                                        <li><a href="blog-post.html">Cyber Security</a></li>
-                                        <li><a href="blog-post.html">Web Development</a></li>
-                                        <li><a href="blog-post.html">E-Commerce</a></li>
-                                        <li><a href="blog-post.html">Energy</a></li>
-                                    </ul>
+                                <li><a href="<?= base_url('ourproduct') ?>">Our Product</a>
+                                    <!-- <ul class="rd-navbar-dropdown">
+                                        <li><a href="<?= base_url('itsolution') ?>">IT Solution</a></li>
+                                        <li><a href="<?= base_url('cyberSecurity') ?>">Cyber Security</a></li>
+                                        <li><a href="<?= base_url('webdev') ?>">Web Development</a></li>
+                                        <li><a href="<?= base_url('ecommerce') ?>">E-Commerce</a></li>
+                                        <li><a href="<?= base_url('energy') ?>">Energy</a></li>
+                                    </ul> -->
                                 </li>
                                 <li><a href="<a href=" <?= base_url('/') ?>">Our Services</a>
                                     <ul class="rd-navbar-megamenu">
                                         <li>
                                             <ul class="rd-megamenu-list">
-                                                <li><a href="faq.html">Finance and Banking System Development</a></li>
-                                                <li><a href="login.html">eCommerce Solutions</a></li>
-                                                <li><a href="cart-page.html">Web and Mobile Development</a></li>
+                                                <li><a href="<?= base_url('finance') ?>">Finance and Banking System Development</a></li>
+                                                <li><a href="<?= base_url('ecommercesol') ?>">eCommerce Solutions</a></li>
+                                                <li><a href="<?= base_url('webmobile') ?>">Web and Mobile Development</a></li>
                                             </ul>
                                         </li>
                                         <li>
                                             <ul class="rd-megamenu-list">
-                                                <li><a href="404-page.html">Cross Platform Solution</a></li>
-                                                <li><a href="503-page.html">Project Management</a></li>
-                                                <li><a href="coming-soon.html">Cybersecurity</a></li>
-                                                <li><a href="maintenance.html">Research and Development</a></li>
+                                                <li><a href="<?= base_url('crossplatform') ?>">Cross Platform Solution</a></li>
+                                                <li><a href="<?= base_url('projectman') ?>">Project Management</a></li>
+                                                <li><a href="<?= base_url('cybersecurity') ?>">Cybersecurity</a></li>
+                                                <li><a href="<?= base_url('research') ?>">Research and Development</a></li>
                                             </ul>
                                         </li>
                                     </ul>
